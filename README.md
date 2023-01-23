@@ -11,3 +11,20 @@
 ##### Sirve para dar formato al texto y que se vea mas ordenado
 
 
+#### Check the status of a local repository
+`*git status*`
+
+#### Add individual files or globally.
+`**git add**`
+
+#### Add comments to the commit.
+`__git commit -m__`
+
+#### Upload your changes to the remote repository.
+`_git push_`
+
+#### Create, browse, and delete branches.
+`__git branch__`
+
+#### Roll back a repository to a specific commit.
+`*git revert*`
